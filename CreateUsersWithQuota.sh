@@ -7,7 +7,7 @@ email_list_file="emails.txt"
 # Yeni kota değeri (Byte cinsinden)
 new_quota="524288000"
 
-default_password='PassowrdHere**'
+default_password='Zimbra2023**'
 
 while IFS= read -r username && IFS= read -r email <&3; do
   email="${email}"
